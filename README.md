@@ -1,16 +1,22 @@
-## Hi there 👋
 
-<!--
-**IvanPanov91/IvanPanov91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm a Python Developer!
 
-Here are some ideas to get you started:
+### 🐍 About Me
+- 💻 Learning Python and Backend Development
+- 🎮 Building games with Pygame
+- 🚀 Improving my programming skills
+- 📚 Exploring OOP, Git and GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- Python
+- Pygame
+- Git & GitHub
+- Object-Oriented Programming (OOP)
+
+### 📂 My Projects
+- 🎮 Snake Game — classic arcade game
+- ❌ Tic-Tac-Toe — Python game
+- 🕹️ Pygame Projects — experiments and games
+
+### 📫 Contact
+Open to collaboration and new projects!
